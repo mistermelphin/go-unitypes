@@ -19,7 +19,7 @@ Supported types:
 ## Installation
 
 ```bash
-go get github.com/mistermelphin/unitypes
+go get github.com/mistermelphin/go-unitypes
 ```
 
 ## Usage
